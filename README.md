@@ -1,1 +1,1 @@
-# LED Dimmer
+# Constant On Time LED Dimmer
